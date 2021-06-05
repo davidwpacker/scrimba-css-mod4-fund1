@@ -1,0 +1,60 @@
+body {
+    width: 620px;
+    margin: 0 auto;
+    font-family: lato;
+    font-size: 18px;
+    box-sizing: border-box;
+
+}
+h1 {
+    padding-left: 30px;
+}
+
+h2 {
+    color: #ef5839;
+}
+
+
+.section-1-parent, .section-3-parent  {
+    background-color: #2e354f;
+    padding: 30px;
+    color: #fff;
+}
+
+.section-2-parent {
+    background-color: #fff;
+    
+}
+
+#btn-1 {
+    background-color: orangered;
+    padding: 10px;
+    box-shadow: none;
+}
+#btn-2 {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    box-shadow: none;
+}
+
+btn-1:hover {
+
+}
+
+btn-2:hover {
+    
+}
+
+#link-para {
+    color: orangered;
+}
+
+
+
+
+
+
+
+
+
